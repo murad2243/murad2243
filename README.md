@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me: I'm Murad Kodalwad
-🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React redux nodeJs<br><br>📝 View my Project here. https://delicate-belekoy-6a378c.netlify.app/ <br><br>📫 How to reach me muradkodalwad2003@gmail.com
+🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React Eedux NodeJs JavaScript<br><br>
+📝 View my Project here. https://quickbuy-363.netlify.app/ <br><br>📫 How to reach me muradkodalwad2003@gmail.com
 <br><br>
 📫 My Portfolio https://murad2243.github.io/
 
