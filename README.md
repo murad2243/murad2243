@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) -->
 # 📊 GitHub Stats:
  ![](https://github-readme-stats.vercel.app/api?username=murad2243&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=murad2243&theme=highcontrast&hide_border=false)<br/>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=murad2243&theme=highcontrast&hide_border=false&show_icons=true&theme=dark)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=murad2243&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&show_icons=true&theme=dark)
 
 
