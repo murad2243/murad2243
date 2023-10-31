@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 
 
-# 💫 About Me: I'm Murad Kodalwad
-🌱 I’m currently learning REACT JS<br><br>💬 Ask me about React Redux NodeJs JavaScript<br><br>
-📝 View my Project here. https://quickbuy-363.netlify.app/ <br><br>📫 How to reach me muradkodalwad2003@gmail.com
+# 💫 About Me: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Murad+Kodalwad;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+💬 Ask me about React Redux NodeJs JavaScript<br><br>
+📝 View my Project here. https://wearwave.netlify.app/ <br> 
+<br>📫 How to reach me muradkodalwad2003@gmail.com
 <br><br>
-📫 My Portfolio https://murad2243.github.io/
+📫 My Portfolio: https://murad2243.github.io/
 
 
 ## 🌐 Socials:
