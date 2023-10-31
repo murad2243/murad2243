@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **murad2243/murad2243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-# 💫 About Me: [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Murad+Kodalwad;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
-💬 Ask me about React Redux NodeJs JavaScript<br><br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&random=false&width=435&lines=Hi%2C+I'm+Murad+Kodalwad;A+Full+Stack+Web+Developer)](https://git.io/typing-svg)
+💬 Ask me about React Redux NodeJs JavaScript Express MongoDB <br><br>
 📝 View my Project here. https://wearwave.netlify.app/ <br> 
 <br>📫 How to reach me muradkodalwad2003@gmail.com
 <br><br>
